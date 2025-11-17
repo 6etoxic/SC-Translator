@@ -1,4 +1,4 @@
 # Tradutor - SC
 
-Um projeto pessoal para uso próprio, fica disponível a quem interessar.
+Um projeto pessoal, fica disponível a quem interessar.
 
